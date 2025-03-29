@@ -1,5 +1,5 @@
 
-package day03;
+package demo.src.day03;
 //
 import java.util.Scanner;
 

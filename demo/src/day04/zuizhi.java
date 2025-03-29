@@ -1,4 +1,4 @@
-package day04;
+package demo.src.day04;
 
 public class zuizhi {
     //    入口
