@@ -1,4 +1,4 @@
-package day03;
+package demo.src.day03;
 
 public class yanzhengma {
     public static void main(String[] args) {
@@ -6,7 +6,6 @@ public class yanzhengma {
     }
 
     //生成验证码
-
     public static String getCode(int n){
         String code = "" ;
         for (int i = 0; i < n; i++) {

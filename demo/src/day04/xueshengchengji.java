@@ -1,4 +1,4 @@
-package day04;
+package demo.src.day04;
 
 import java.util.Scanner;
 
@@ -8,6 +8,7 @@ public class xueshengchengji {
     }
 //    录入学生成绩
     // 定义数组，存储学生成绩
+    //测试git
     public static void input(){
         double[] scores = {123.45, 678.90, 234.56, 789.01, 345.67, 890.12, 456.78, 901.23, 567.89, 999.99};
 //        double[] scores = new double[8];
