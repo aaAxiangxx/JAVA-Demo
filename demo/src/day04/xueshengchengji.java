@@ -9,6 +9,7 @@ public class xueshengchengji {
 //    录入学生成绩 定义数组，存储学生成绩
 //    测试git1231112  1 111
 //    测试git123
+    //1
     //ctrl + alt + l 格式化代码
     //ctrl + k 提交
     //alt + i 确认提交
