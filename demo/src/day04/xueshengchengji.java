@@ -2,6 +2,7 @@ package demo.src.day04;
 
 import java.util.Scanner;
 
+
 public class xueshengchengji {
     public static void main(String[] args) {
         input();
