@@ -3,6 +3,7 @@ package demo.src.day03;
 import java.util.Random;
 
 public class suijishu {
+    //随机数
     public static void main(String[] args) {
         guess();
     }

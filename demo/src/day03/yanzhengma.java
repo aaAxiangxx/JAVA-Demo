@@ -1,6 +1,7 @@
 package demo.src.day03;
 
 public class yanzhengma {
+    // 验证码生成器
     public static void main(String[] args) {
         System.out.println("验证码：" + getCode(6));
     }

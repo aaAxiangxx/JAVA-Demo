@@ -4,6 +4,7 @@ package demo.src.day03;
 import java.util.Scanner;
 
 public class test {
+    // 测试方法
     // 主方法，程序的入口
     public static void main(String[] args) {
         // 调用test方法

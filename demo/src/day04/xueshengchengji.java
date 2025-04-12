@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 
 public class xueshengchengji {
+    //录入学生成绩
     public static void main(String[] args) {
         input();
     }
